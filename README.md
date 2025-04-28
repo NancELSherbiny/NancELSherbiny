@@ -4,15 +4,15 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Nancy EL-Sherbiny</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Nancy EL-Sherbiny</h1>
 <h3 align="center">Software Engineer | Mobile Developer | Tester | .NET Developer</h3>
 
 ---
 
-### 👩‍💻 About Me  
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me  
 - 🎓 **Computer Engineering Graduate** from Egypt Japan University 
 - 💡 Passionate about **Mobile Development, Software Testing, and Full-Stack Development**  
-- 🌱 Currently learning **Advanced Software Testing & .NET Development**  
+- 🌱 Currently learning **Advanced Software Testing & .NET Development**   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📩 How to reach me: **nancyelsherbiny9@gmail.com**  
 
 ---
@@ -129,6 +129,7 @@
 </p>
 
 ---
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancelsherbiny&show_icons=true&locale=en&layout=compact" alt="nancelsherbiny" /></p>
 
