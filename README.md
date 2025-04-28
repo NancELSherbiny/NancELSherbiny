@@ -134,14 +134,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancelsherbiny&show_icons=true&locale=en&layout=compact" alt="nancelsherbiny" /></p>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NancELSherbiny/NancELSherbiny/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NancELSherbiny/NancELSherbiny/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NancELSherbiny/NancELSherbiny/output/snake.svg" />
+</picture>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ✨ **Feel free to connect and collaborate!** 😊  
 
