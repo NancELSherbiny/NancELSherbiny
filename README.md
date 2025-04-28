@@ -133,9 +133,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancelsherbiny&show_icons=true&locale=en&layout=compact" alt="nancelsherbiny" /></p>
 
----
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ✨ **Feel free to connect and collaborate!** 😊  
 
