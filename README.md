@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Nancy EL-Sherbiny</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Nancy Hossam EL-Sherbiny</h1>
 <h3 align="center">Software Engineer | Mobile Developer | Tester | .NET Developer</h3>
 
 ---
