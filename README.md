@@ -27,8 +27,9 @@
 ---
 
 ### 🌟 Featured Projects
-- [Sakkeny]()
-- [Loan Dashboard management System]()
+- [Sakkeny](https://github.com/NancELSherbiny/sakenny) -A multi-role rental platform with property management, payments, authentication, and real-time booking.
+- [Loan Dashboard management System](https://github.com/NancELSherbiny/loan-system) -A complete loan management workflow including disbursement, repayment schedules, rollback logic, and audit
+logging.
 - [Exam System](https://github.com/nancelsherbiny/exam-system) — Web-based exam app with timer, scorecard, and analytics.
 - [News App](https://github.com/nancelsherbiny/news-app) — News aggregator built with Flutter and NewsAPI.
 
