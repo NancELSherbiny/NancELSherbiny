@@ -10,9 +10,9 @@
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me  
-- 🎓 **Computer Engineering Graduate** from Egypt Japan University 
-- 💡 Passionate about **Mobile Development, Software Testing, and Full-Stack Development**  
-- 🌱 Currently learning **Advanced Software Testing & .NET Development**   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🎓 **Computer Engineering Graduate from Egypt Japan University**
+- 🎓 **ITI .NET Full-Stack Develpment Graduate** 
+- 💡 Passionate about **Backend and Frontend development & Software Testing**  
 - 📩 How to reach me: **nancyelsherbiny9@gmail.com**  
 
 ---
@@ -27,6 +27,8 @@
 ---
 
 ### 🌟 Featured Projects
+- [Sakkeny]()
+- [Loan Dashboard management System]()
 - [Exam System](https://github.com/nancelsherbiny/exam-system) — Web-based exam app with timer, scorecard, and analytics.
 - [News App](https://github.com/nancelsherbiny/news-app) — News aggregator built with Flutter and NewsAPI.
 
