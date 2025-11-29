@@ -11,7 +11,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me  
 - 🎓 **Computer Engineering Graduate from Egypt Japan University**
-- 🎓 **ITI .NET Full-Stack Develpment Graduate** 
+- 🎓 **ITI .NET Full-Stack Development Graduate** 
 - 💡 Passionate about **Backend and Frontend development & Software Testing**  
 - 📩 How to reach me: **nancyelsherbiny9@gmail.com**  
 
